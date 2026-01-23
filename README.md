@@ -23,6 +23,12 @@ dependencies: [
 1. File > Add Package Dependencies...
 2. URL 입력: `https://github.com/mobidoo-official/PIPKit.git`
 
+### CocoaPods
+
+```ruby
+pod 'PIPKit-iOS', :git => 'https://github.com/mobidoo-official/PIPKit-iOS.git', :tag => '1.0.1'
+```
+
 ## 사용법
 
 ### 1. PIPUsable 프로토콜 구현
