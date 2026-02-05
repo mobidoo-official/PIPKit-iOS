@@ -15,13 +15,13 @@ iOS 13+ Scene 기반 앱을 지원합니다.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/mobidoo-official/PIPKit.git", from: "1.0.0")
+    .package(url: "https://github.com/mobidoo-official/PIPKit-iOS", from: "1.0.0")
 ]
 ```
 
 또는 Xcode에서:
 1. File > Add Package Dependencies...
-2. URL 입력: `https://github.com/mobidoo-official/PIPKit.git`
+2. URL 입력: `https://github.com/mobidoo-official/PIPKit-iOS`
 
 ### CocoaPods
 
